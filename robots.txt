@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipuwoeng.allen.tools/sitemap.xml
